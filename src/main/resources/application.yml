@@ -5,5 +5,3 @@ spring:
         server:
            git:
              uri: https://github.com/Nikhil-Umesh/cloud-config
-             username: arnav
-             password: sweety
